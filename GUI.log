@@ -1,0 +1,6 @@
+maj 01, 2023 10:31:44 EM org.example.GUI getLogin
+INFO: Reading login credentials from Swing input
+maj 01, 2023 10:32:17 EM org.example.GUI getLogin
+INFO: Saving login credentials to file
+maj 01, 2023 10:50:52 EM org.example.GUI getLogin
+INFO: Login canceled by user
