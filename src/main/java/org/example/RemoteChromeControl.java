@@ -41,7 +41,7 @@ public class RemoteChromeControl {
 
         GUI login = new GUI();
         String[] credentials = login.getLoginCredentials();
-        String post = login.getPost();
+
 
         LOGGER.info("Starting Chrome driver");
         System.setProperty("webdriver.chrome.driver", chromeDriverPath);
